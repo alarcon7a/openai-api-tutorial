@@ -12,7 +12,7 @@ Este repositorio contiene el código y recursos utilizados en la serie de tutori
 - Primera implementación
 - [Ver Video Tutorial](https://youtu.be/4LKmQ1Qv7Zc)
 
-### Episodio 1: Roles y Memoria
+### Episodio 2: Roles y Memoria
 
 - Cómo funcionan los roles de OpenAI API
 - Manejo de messages
