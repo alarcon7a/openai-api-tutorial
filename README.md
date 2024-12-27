@@ -22,6 +22,7 @@ Este repositorio contiene el código y recursos utilizados en la serie de tutori
 ### Episodio 3: Parametros
 
 - Que son los parametros en el API
+  
   ⚡ Temperature: Controla la creatividad de 0 a 2
   
   🎯 Max Tokens: Define la longitud de las respuestas
