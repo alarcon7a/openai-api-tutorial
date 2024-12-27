@@ -19,7 +19,16 @@ Este repositorio contiene el código y recursos utilizados en la serie de tutori
 - Funciones utiles para el manejo de memoria
 - [Ver Video Tutorial](https://youtu.be/Ads5IaomEzA)
 
+### Episodio 3: Parametros
 
+- Que son los parametros en el API
+  ⚡ Temperature: Controla la creatividad de 0 a 2
+  🎯 Max Tokens: Define la longitud de las respuestas
+  🎨 Top P: Maneja la variabilidad del vocabulario
+  ⚖️ Presence y Frequency Penalty: Evita respuestas repetitivas
+  🔄 N: Obtén múltiples respuestas en una sola llamada
+  🛑 Stop: Controla dónde termina la generación
+- [Ver Video Tutorial](https://www.youtube.com/watch?v=BJ-_Aeo6h7c)
 
 ## 🚀 Comenzando
 
