@@ -38,9 +38,10 @@ Este repositorio contiene el código y recursos utilizados en la serie de tutori
 - [Ver Video Tutorial](https://www.youtube.com/watch?v=BJ-_Aeo6h7c)
 
 ### Episodio 4: Tokens
-  📊 Tokens
-  ⚙️ Uso de Tiktoken
-  ⚡ Tips
+Uso y manejo de tokens
+  - 📊 Tokens
+  - ⚙️ Uso de Tiktoken
+  - ⚡ Tips
 - [Ver Video Tutorial](https://www.youtube.com/watch?v=B1fFTK6_A_M)
 
 
