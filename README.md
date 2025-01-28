@@ -66,9 +66,5 @@ Este repositorio contiene el código y los recursos utilizados en la serie de tu
 ---
 
 ## 🤝 Contribuciones
-¡Contribuciones son bienvenidas! Por favor, revisa las [normas de contribución](CONTRIBUTING.md) antes de enviar un pull request.
+¡Contribuciones son bienvenidas! 
 
----
-
-## 📜 Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
