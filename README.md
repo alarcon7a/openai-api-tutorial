@@ -44,6 +44,13 @@ Uso y manejo de tokens
   - ⚡ Tips
 - [Ver Video Tutorial](https://www.youtube.com/watch?v=B1fFTK6_A_M)
 
+### Episodio 5: Structured Outputs
+  -⚙️ Structured Output
+  -📄 Pydantic
+  -⚡ Tips
+- [Ver Video Tutorial](https://youtu.be/dIccw6fsuP4)
+
+
 
 ## 🚀 Comenzando
 
