@@ -47,6 +47,15 @@ Este repositorio contiene el código y los recursos utilizados en la serie de tu
   - ⚡ Consejos prácticos para implementación.
 - [Ver Video Tutorial](https://youtu.be/dIccw6fsuP4)
 
+### Episodio 6: Batch Processing
+- Procesamiento por lotes con la API de OpenAI:
+  - 📦 Creación de archivos JSONL para solicitudes por lotes.
+  - 📤 Carga de archivos a la API de OpenAI.
+  - 🚀 Creación y gestión de trabajos por lotes.
+  - 📋 Monitorización del estado de los lotes.
+  - 📥 Descarga y procesamiento de resultados.
+- [Ver Video Tutorial](https://www.youtube.com/watch?v=OUHLzTSPkdk)
+
 ---
 
 ## 🚀 Comenzando
@@ -66,5 +75,4 @@ Este repositorio contiene el código y los recursos utilizados en la serie de tu
 ---
 
 ## 🤝 Contribuciones
-¡Contribuciones son bienvenidas! 
-
+¡Contribuciones son bienvenidas!
