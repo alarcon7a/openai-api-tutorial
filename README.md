@@ -56,6 +56,15 @@ Este repositorio contiene el código y los recursos utilizados en la serie de tu
   - 📥 Descarga y procesamiento de resultados.
 - [Ver Video Tutorial](https://www.youtube.com/watch?v=OUHLzTSPkdk)
 
+### Episodio 7: Function Calling
+- Implementación de llamadas a funciones:
+  - 🔧 **Definición de funciones**: Cómo estructurar y describir funciones para la API.
+  - 📡 **Integración con APIs externas**: Conectar el modelo con servicios externos.
+  - 🛠️ **Herramientas personalizadas**: Crear funciones para tareas específicas.
+  - 🔄 **Manejo del flujo**: Gestión del ciclo completo de llamadas a funciones.
+  - ⚡ **Casos de uso prácticos**: Ejemplos reales de implementación.
+- [Ver Video Tutorial](https://youtu.be/RDrCBjObd3A)
+
 ---
 
 ## 🚀 Comenzando
