@@ -1,6 +1,7 @@
 # Tutorial API de OpenAI 2025 🚀
 
-![Banner](https://github.com/user-attachments/assets/34380b40-5165-4e34-9a55-3716aa707506)
+![Banner](https://github.com/user-attachments/assets/f70f774f-a096-495c-8653-c00e7d6fbcc3)
+
 
 Este repositorio contiene el código y los recursos utilizados en la serie de tutoriales sobre la API de OpenAI. Aprende a integrar modelos de inteligencia artificial en tus aplicaciones de manera práctica y paso a paso.
 
